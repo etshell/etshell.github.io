@@ -20,8 +20,8 @@ window.onload = function() {
   }
 
   var messages = [
-    'Slm 👋',
-    'I\'m Hsina',
+    'Hey you 👋',
+    'I\'m Hasna',
     'I design awesome stuff ✨',
     'Contact me for work, collaboration or to declare your undying love at <a href="mailto:hasna.lahmini@gmail.com">hasna.lahmini@gmail.com</a> 😏',
     '<a target="_blank" href="https://www.behance.net/hasnalahmini">behance.net/hasnalahmini</a><br><a target="_blank" href="https://dribbble.com/etshell">dribbble.com/etshell</a><br><a target="_blank" href="https://www.instagram.com/7sinimalism/">instagram.com/7sinimalism</a>',
