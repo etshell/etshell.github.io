@@ -20,14 +20,14 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey you! ❤️ ',
+    'Hey you 😏',
     'I\'m Hasna',
     'I design awesome stuff ✨',
-    'I\'m currently studying at ESAV Marrakech and running <a target="_blank" href="http://afus.design">afus.design</a>',
-    'Contact me for work, collaboration or to declare your undying love at <a href="mailto:hasna.lahmini@gmail.com">contact@hasna.design</a> 😏',
+    'I\'m currently studying at ESAV Marrakech and running <a target="_blank" href="http://afus.design">afus.design</a> 👌' ,
+    'Contact me for work, collaboration or just to declare your undying love at <a href="mailto:hasna.lahmini@gmail.com">contact@hasna.design</a> 😉',
     '<a target="_blank" href="https://www.behance.net/hasnalahmini">behance.net/hasna</a><br><a target="_blank" href="https://dribbble.com/hasna">dribbble.com/hasna</a><br><a target="_blank" href="https://www.instagram.com/7sinimalism/">instagram.com/hasna</a>',
     getCurrentTime(),
-    'Xoxo'
+    '🖖'
   ]
 
   var getFontSize = function() {
