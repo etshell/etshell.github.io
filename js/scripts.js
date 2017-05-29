@@ -23,7 +23,7 @@ window.onload = function() {
     'Slm 👋',
     'I\'m Hsina',
     'I design awesome stuff ✨',
-    'I\'m currently studying at l\'ÉSAV Marrakech 😩<br>Contact me for work / to declare your undying love :<a href="mailto:hasna.lahmini@gmail.com">hasna.lahmini@gmail.com</a>😏',
+    'I\'m currently studying at l\'ÉSAV Marrakech 😩<br>Contact me for work or to declare your undying love: <a href="mailto:hasna.lahmini@gmail.com">hasna.lahmini@gmail.com</a> 😏',
     '<a target="_blank" href="https://www.behance.net/hasnalahmini">behance.net/hasnalahmini</a><br><a target="_blank" href="https://dribbble.com/etshell">dribbble.com/etshell</a><br><a target="_blank" href="https://www.instagram.com/7sinimalism/">instagram.com/7sinimalism</a>',
     getCurrentTime(),
     'Xoxo'
