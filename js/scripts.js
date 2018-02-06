@@ -25,7 +25,7 @@ window.onload = function() {
     'I design awesome stuff ✨',
     'I run <a target="_blank" href="https://www.facebook.com/afusmade">afus.design</a> 👌' ,
     'Contact me for work, collaboration or just to say hi at <a href="mailto:hasna.lahmini@gmail.com">contact@hasna.design</a> 😉',
-    '<a target="_blank" href="https://www.behance.net/hasna">behance.net/hasna</a><br><a target="_blank" href="https://dribbble.com/hasna">dribbble.com/hasna</a><br><a target="_blank" href="https://www.instagram.com/7sinimalism/">instagram.com/hasna</a>',
+    '<a target="_blank" href="https://www.behance.net/etshell">behance.net/hasna</a><br><a target="_blank" href="https://dribbble.com/hasna">dribbble.com/hasna</a><br><a target="_blank" href="https://www.instagram.com/7sinimalism/">instagram.com/hasna</a>',
     getCurrentTime(),
     '🖖'
   ]
