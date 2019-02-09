@@ -20,10 +20,10 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey you!',
+    'Hi there!',
     'I\'m Hasna',
     'I\'m a Moroccan designer and art director based in France,
-    'For commissions, collaborations or just to say hi, drop me an email at <a href="mailto:hasna.lahmini@gmail.com">contact@hasna.design</a> ',
+    'For commissions, collaborations or just to say hi, drop me an email at <a href="mailto:hasna.lahmini@gmail.com">contact@hasna.design</a>',
     '<a target="_blank" href="https://www.behance.net/etshell">behance.net/hasna</a><br><a target="_blank" href="https://dribbble.com/hasna">dribbble.com/hasna</a><br><a target="_blank" href="https://www.instagram.com/7sinimalism/">instagram.com/hasna</a>',
     getCurrentTime(),
     '🖖'
