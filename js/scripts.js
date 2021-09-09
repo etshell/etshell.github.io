@@ -21,11 +21,11 @@ window.onload = function() {
 
   var messages = [
     'Hi there!',
-    'I\'m Hasna',
-    'I\'m a Moroccan independent designer based in France.',
-    'I operate in multilingual contexts (latin, arabic & tamazight) and whitin various fields such as art direction, editorial design, branding and visual identity, textile design as well as typography.',
-    'For commissions, collaborations or just to say hi, drop me an email at <a href="mailto:hasna.lahmini@gmail.com">contact@hasna.design</a>',
-    '<a target="_blank" href="https://www.behance.net/etshell">behance.net/hasna</a><br><a target="_blank" href="https://dribbble.com/hasna">dribbble.com/hasna</a><br><a target="_blank" href="https://www.instagram.com/afusmade/">instagram.com/hasna</a>',
+    'Hope you\'re fine',
+    'There\'s nothing to see here for the time being.',
+    'I am currently taking a short break to look within, embrace my reality, question and reflect on myself and my circumstances...',
+    'You know, put things in perspective in order to redefine how I would like to grow as a person and as a designer.',
+    'See you soon, I hope!',
     getCurrentTime(),
     '🖖'
   ]
