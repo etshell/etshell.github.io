@@ -20,12 +20,7 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hi there!',
-    'Hope you\'re fine',
-    'There\'s nothing to see here for the time being.',
-    'I am currently taking a short break to look within, question and reflect on myself and my circumstances... Put things in perspective to redefine how I would like to grow as a person and as a designer.',
-    'If you would like to reach out for whatever reason, feel free to drop me an email at <a href="mailto:hasna.lahmini@gmail.com">contact@hasna.design</a>',
-    'See you soon!',
+    'brb',
     getCurrentTime(),
     '🖖'
   ]
