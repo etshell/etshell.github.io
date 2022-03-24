@@ -20,7 +20,7 @@ window.onload = function() {
   }
 
   var messages = [
-    'brb'
+    'brb',
     '🖖'
   ]
 
